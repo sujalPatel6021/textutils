@@ -27,3 +27,8 @@ Installation
     <li><strong>Clone the repository:</strong></li>
   </ol>
 </p>
+<p>bash</p>
+<ul>
+  <li>git clone https://github.com/yourusername/textutils.git</li>
+  <li>cd textutils</li>
+</ul>
