@@ -11,8 +11,6 @@ Features
   <li><strong>Live Preview</strong>: See real-time updates of your text as you type or modify it.</li>
   <li><strong>Light and Dark Mode</strong>: Get light and dark mode with the toggle button on top.</li>
 </ul>
-Demo
-<p style="font-size: 16px;">![textutil1](https://github.com/user-attachments/assets/2e8afdb5-784a-466e-ad58-35c8840e2531)</p>
 Getting Started
 <p style="font-size: 18px;">These instructions will help you set up and run the project on your local machine.</p>
 Prerequisites
@@ -113,3 +111,14 @@ yarn start
 <br>
 <h2>Contact</h2>
 <p style="font-size: 16px;">For any questions or suggestions, please open an issue or contact [sujalpatel6021@gmail.com].</p>
+<br>
+<br>
+<h2>Demo</h2>
+
+![textutil1](https://github.com/user-attachments/assets/c644222c-9ee1-4c2a-92f8-958c198e8541)
+
+![textutil2](https://github.com/user-attachments/assets/67c3df68-3b3e-439c-88e3-a303f643377c)
+
+
+
+
