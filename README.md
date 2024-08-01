@@ -17,7 +17,6 @@ Getting Started
 Prerequisites
 <p style="font-size: 16px;">
   <ul>
-    <li>Node.js</li>
     <li>npm (Node Package Manager) or yarn</li>
   </ul>
 </p>
@@ -29,6 +28,21 @@ Installation
 </p>
 <p>bash</p>
 <ul>
-  <li>git clone https://github.com/yourusername/textutils.git</li>
+  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
   <li>cd textutils</li>
+</ul>
+<p style="font-size: 16px;">
+  <ol start="2">
+    <li><strong>Install dependencies:</strong></li>
+  </ol>
+</p>
+<p>bash</p>
+<ul>
+  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
+  <li>cd textutils</li>
+</ul>
+<p>bash</p>
+<ul>
+  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
+  <p>cd textutils</p>
 </ul>
