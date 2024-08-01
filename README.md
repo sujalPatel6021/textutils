@@ -1,4 +1,4 @@
-<h1>TextUtils<h1>
+<h1>TextUtils</h1>
 
 <p style="font-size: 18px;">TextUtils is a versatile text manipulation tool built with React. It offers features like converting text to uppercase or lowercase, clearing text, removing extra spaces, copying text, counting words and characters, and providing a real-time preview of the modified text.</p>
 Features
