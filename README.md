@@ -12,7 +12,9 @@ Features
   <li><strong>Light and Dark Mode</strong>: Get light and dark mode with the toggle button on top.</li>
 </ul>
 Demo
-<p style="font-size: 16px;">![TextUtils Demo](Assests\textutil1.png)</p>
+<p style="font-size: 16px;">![TextUtils Demo](![textutil1](https://github.com/user-attachments/assets/361016bd-f8f9-4392-a84c-294094ac10a2))
+(![textutil2](https://github.com/user-attachments/assets/59d5a86f-d470-4644-b174-3b53e26b8ba2))
+</p>
 Getting Started
 <p style="font-size: 18px;">These instructions will help you set up and run the project on your local machine.</p>
 Prerequisites
