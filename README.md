@@ -43,18 +43,6 @@ cd textutils
     <li><strong>Install dependencies:</strong></li>
   </ol>
 </p>
-<ul>
-  <p>$  npm install</p>
-  <p>  # or  </p>
-  <p>$  yarn install</p>
-</ul>
-<p style="font-size: 16px;">
-  <ol start="3">
-    <li><strong>Start the development server:</strong></li>
-  </ol>
-</p>
-
-<p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the TextUtils app in action.</p>
 <div style="position: relative;
             background-color: #f5f5f5;
             padding: 10px;
@@ -63,10 +51,15 @@ cd textutils
             font-family: Consolas, 'Courier New', monospace;
             font-size: 14px;">
         <pre id="code-example">
-<div style="background-color : #313159 ; margin : 0 ; padding : 0 ; border-radius: 5px; font-family: Consolas, 'Courier New', monospace;
-            font-size: 14px;">bash</div>
 npm install
 &nbsp;&nbsp;&nbsp;# or
 yarn install
         </pre>
 </div>
+<p style="font-size: 16px;">
+  <ol start="3">
+    <li><strong>Start the development server:</strong></li>
+  </ol>
+</p>
+
+<p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the TextUtils app in action.</p>
