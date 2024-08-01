@@ -60,7 +60,7 @@ Installation
             font-size: 14px;">
         <pre id="code-example">
 npm install
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong># or</strong></p>
+<p align="center">&nbsp;<strong># or</strong></p>
 yarn install
         </pre>
     </div>
