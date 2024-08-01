@@ -28,8 +28,8 @@ Installation
 </p>
 <p>bash</p>
 <ul>
-  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
-  <li>cd textutils</li>
+  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
+  <p>cd textutils</p>
 </ul>
 <p style="font-size: 16px;">
   <ol start="2">
@@ -38,11 +38,11 @@ Installation
 </p>
 <p>bash</p>
 <ul>
-  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
-  <li>cd textutils</li>
+  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
+  <p>cd textutils</p>
 </ul>
 <p>bash</p>
 <ul>
-  <li>git clone https://github.com/sujalPatel6021/textutils.git</li>
+  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
   <p>cd textutils</p>
 </ul>
