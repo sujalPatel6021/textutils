@@ -40,3 +40,27 @@ Installation
   <p>  # or  </p>
   <p>$  yarn install</p>
 </ul>
+<p style="font-size: 16px;">
+  <ol start="3">
+    <li><strong>Start the development server:</strong></li>
+  </ol>
+</p>
+<ul>
+  <p>$  npm start</p>
+  <p>  # or  </p>
+  <p>$  yarn start</p>
+</ul>
+<p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the TextUtils app in action.</p>
+<div style="position: relative;
+            background-color: #f5f5f5;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-family: Consolas, 'Courier New', monospace;
+            font-size: 14px;">
+        <pre id="code-example">
+npm install
+# or
+yarn install
+        </pre>
+    </div>
