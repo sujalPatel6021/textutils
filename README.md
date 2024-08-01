@@ -87,21 +87,29 @@ yarn start
   <li>Remove extra spaces from the text.</li>
   <li>Copy the text to the clipboard.</li>
 </ul>
-<p style="font-size: 18px;">3. **View the Result**: The updated text will be shown in the preview section.</p>
+<p style="font-size: 18px;">3. **View the Result**: The updated text will be shown in the text area and preview section.</p>
 <p style="font-size: 18px;">4. **Check Statistics**: Word and character counts are displayed below the text area.</p>
+<br>
+<br>
 <h2>Contributing</h2>
 <p style="font-size: 18px;">Contributions are welcome! To contribute:</p>
 <ul style="font-size: 16px;">
   <li>Fork the repository.</li>
-  <li>Create a new branch: `git checkout -b feature/YourFeatureName`.</li>
-  <li>Commit your changes: `git commit -m 'Add some feature'`.</li>
-  <li>Push to the branch: `git push origin feature/YourFeatureName`.</li>
+  <li>Create a new branch</li>
+  <li>Commit your changes</li>
+  <li>Push to the branch</li>
   <li>Create a pull request.</li>
 </ul>
 <p style="font-size: 16px;">Please ensure your code adheres to our coding standards and is well-documented.</p>
+<br>
+<br>
 <h2>License</h2>
-<p style="font-size: 16px;">This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
+<p style="font-size: 16px;">This project is licensed under the MIT License.</p>
+<br>
+<br>
 <h2>Acknowledgments</h2>
 <p style="font-size: 16px;">This project was inspired by various text manipulation tools and community suggestions. Thanks to all contributors and users for their support and feedback.</p>
+<br>
+<br>
 <h2>Contact</h2>
-<p style="font-size: 16px;">For any questions or suggestions, please open an issue or contact [your-email@example.com].</p>
+<p style="font-size: 16px;">For any questions or suggestions, please open an issue or contact [sujalpatel6021@gmail.com].</p>
