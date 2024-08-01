@@ -37,6 +37,6 @@ Installation
 </p>
 <ul>
   <p>$  npm install</p>
-  <p>  # or  </p>
+  <p> ' ' # or ' ' </p>
   <p>$  yarn install</p>
 </ul>
