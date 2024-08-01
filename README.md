@@ -26,10 +26,18 @@ Installation
     <li><strong>Clone the repository:</strong></li>
   </ol>
 </p>
-<ul>
-  <p>$  git clone https://github.com/sujalPatel6021/textutils.git</p>
-  <p>$  cd textutils</p>
-</ul>
+<div style="position: relative;
+            background-color: #f5f5f5;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-family: Consolas, 'Courier New', monospace;
+            font-size: 14px;">
+        <pre id="code-example">
+git clone https://github.com/sujalPatel6021/textutils.git
+cd textutils
+        </pre>
+</div>
 <p style="font-size: 16px;">
   <ol start="2">
     <li><strong>Install dependencies:</strong></li>
@@ -45,12 +53,17 @@ Installation
     <li><strong>Start the development server:</strong></li>
   </ol>
 </p>
-<ul>
-  <p>$  npm start</p>
-  <p>  # or  </p>
-  <p>$  yarn start</p>
-</ul>
+
 <p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the TextUtils app in action.</p>
+<div style="background-color: #333;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px 5px 0 0;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            display: inline-block;
+            margin-top: 20px;
+            margin-left: 10px;">bash</div>
 <div style="position: relative;
             background-color: #f5f5f5;
             padding: 10px;
@@ -63,4 +76,4 @@ npm install
 &nbsp;&nbsp;&nbsp;# or
 yarn install
         </pre>
-    </div>
+</div>
