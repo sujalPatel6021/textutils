@@ -1,7 +1,7 @@
 <h1>TextUtils</h1>
 
 <p style="font-size: 18px;">TextUtils is a versatile text manipulation tool built with React. It offers features like converting text to uppercase or lowercase, clearing text, removing extra spaces, copying text, counting words and characters, and providing a real-time preview of the modified text.</p>
-Features
+<h3>Features</h3>
 <ul style="font-size: 16px;">
   <li><strong>Case Conversion</strong>: Switch between uppercase and lowercase effortlessly.</li>
   <li><strong>Clear Text</strong>: Clear the text area with a single click.</li>
@@ -11,7 +11,7 @@ Features
   <li><strong>Live Preview</strong>: See real-time updates of your text as you type or modify it.</li>
   <li><strong>Light and Dark Mode</strong>: Get light and dark mode with the toggle button on top.</li>
 </ul>
-Getting Started
+<h2>Getting Started</h2>
 <p style="font-size: 18px;">These instructions will help you set up and run the project on your local machine.</p>
 Prerequisites
 <p style="font-size: 16px;">
@@ -19,7 +19,7 @@ Prerequisites
     <li>npm (Node Package Manager) or yarn</li>
   </ul>
 </p>
-Installation
+<h2>Installation</h2>
 <p style="font-size: 16px;">
   <ol>
     <li><strong>Clone the repository:</strong></li>
