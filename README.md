@@ -26,27 +26,20 @@ Installation
     <li><strong>Clone the repository:</strong></li>
   </ol>
 </p>
-<p>bash</p>
 <ul>
-  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
-  <p>cd textutils</p>
+  <p>$ git clone https://github.com/sujalPatel6021/textutils.git</p>
+  <p>$ cd textutils</p>
 </ul>
 <p style="font-size: 16px;">
   <ol start="2">
     <li><strong>Install dependencies:</strong></li>
   </ol>
 </p>
-<ul><p>bash</p>
 <ul>
-  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
-  <p>cd textutils</p>
+  <p>$ git clone https://github.com/sujalPatel6021/textutils.git</p>
+  <p>$ cd textutils</p>
 </ul>
-</ul>
-<p>bash</p>
 <ul>
-  <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
-  <p>cd textutils</p>
+  <p>$ git clone https://github.com/sujalPatel6021/textutils.git</p>
+  <p>$ cd textutils</p>
 </ul>
-```bash
-git clone https://github.com/yourusername/textutils.git
-cd textutils
