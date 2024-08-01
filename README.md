@@ -55,15 +55,6 @@ cd textutils
 </p>
 
 <p style="font-size: 16px;">Open your browser and navigate to <code>http://localhost:3000</code> to see the TextUtils app in action.</p>
-<div style="background-color: #333;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px 5px 0 0;
-            font-family: Arial, sans-serif;
-            font-size: 14px;
-            display: inline-block;
-            margin-top: 20px;
-            margin-left: 10px;">bash</div>
 <div style="position: relative;
             background-color: #f5f5f5;
             padding: 10px;
@@ -72,6 +63,7 @@ cd textutils
             font-family: Consolas, 'Courier New', monospace;
             font-size: 14px;">
         <pre id="code-example">
+<div>bash</div>
 npm install
 &nbsp;&nbsp;&nbsp;# or
 yarn install
