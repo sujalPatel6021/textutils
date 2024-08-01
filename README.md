@@ -63,7 +63,8 @@ cd textutils
             font-family: Consolas, 'Courier New', monospace;
             font-size: 14px;">
         <pre id="code-example">
-<div>bash</div>
+<div style="background-color : #313159 ; margin : 0 ; padding : 0 ; border-radius: 5px; font-family: Consolas, 'Courier New', monospace;
+            font-size: 14px;">bash</div>
 npm install
 &nbsp;&nbsp;&nbsp;# or
 yarn install
