@@ -36,10 +36,11 @@ Installation
     <li><strong>Install dependencies:</strong></li>
   </ol>
 </p>
-<p>bash</p>
+<ul><p>bash</p>
 <ul>
   <p>git clone https://github.com/sujalPatel6021/textutils.git</p>
   <p>cd textutils</p>
+</ul>
 </ul>
 <p>bash</p>
 <ul>
